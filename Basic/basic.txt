@@ -1,0 +1,1 @@
+This is normal notes. here we will start with React projects
